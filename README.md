@@ -1,1 +1,4 @@
-# Flatiron-Phase-3-Project-Backend
+# Music.Ally Backend
+
+- Ruby
+- SQLite
